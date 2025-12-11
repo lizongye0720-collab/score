@@ -1,7 +1,8 @@
 {
-  "name": "score-system",
+  "name": "score",
   "version": "1.0.0",
+  "type": "module",
   "dependencies": {
-    "socket.io": "^4.7.2"
+    "@supabase/supabase-js": "^2.39.8"
   }
 }
